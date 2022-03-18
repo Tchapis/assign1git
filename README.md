@@ -2,8 +2,8 @@
 Tyler Brown
 
 First comment
-<<<<<<< HEAD
+HEAD
 
-=======
+
 testbranch change
->>>>>>> main
+main
